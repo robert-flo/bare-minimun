@@ -103,10 +103,10 @@ bare-minimum was inspired by `<reason/idea>`.
 <strong>⭐ hit the star button if you found this useful ⭐</strong><br>
 
 <a href="https://github.com/robert-flo/bare-minimun">Source</a>
-| <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
-| <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a>
-| <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a>
-| <a href="https://2kabhishek.github.io/links" target="_blank">More Links </a>
-| <a href="https://2kabhishek.github.io/projects" target="_blank">Other Projects </a>
+| <a href="https://robert-flo.github.io/blog" target="_blank">Blog </a>
+| <a href="https://twitter.com/YOUR_TWITTER" target="_blank">Twitter </a>
+| <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn </a>
+| <a href="https://robert-flo.github.io/links" target="_blank">More Links </a>
+| <a href="https://robert-flo.github.io/projects" target="_blank">Other Projects </a>
 
 </div>
