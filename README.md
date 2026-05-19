@@ -145,8 +145,12 @@ Here are some personal configurations and setups that keep my development enviro
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_github.svg" width="36" height="36" alt="Github" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://robert-flo.github.io/blog">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_reddit.svg" width="36" height="36" alt="Reddit" />
+<a href="mailto:25asab015@ujmd.edu.sv">
+  <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" width="36" height="36" style="vertical-align: middle;">
+    <circle cx="32" cy="32" r="32" fill="#181926"/>
+    <rect x="16" y="22" width="32" height="20" rx="3" fill="none" stroke="#cad3f5" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16 24l16 10 16-10" fill="none" stroke="#cad3f5" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/robert-flo">
