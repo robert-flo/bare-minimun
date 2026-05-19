@@ -65,14 +65,12 @@
 <a id="setup"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=SETUP" alt="Setup" />
 
-<a id="requirements"></a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=20&pause=1000&color=b7bdf8&vCenter=true&width=450&height=25&lines=REQUIREMENTS" alt="Requirements" />
+### ⚙️ Requirements
 
 - `foo` >= `bar`
 - `bazz`
 
-<a id="installation"></a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=20&pause=1000&color=b7bdf8&vCenter=true&width=450&height=25&lines=INSTALLATION" alt="Installation" />
+### 💻 Installation
 
 Getting started is as simple as cloning this template and configuring your environment:
 
