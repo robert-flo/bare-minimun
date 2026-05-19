@@ -4,9 +4,13 @@
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&pause=1000&color=b7bdf8&center=true&vCenter=true&width=600&height=35&lines=Minimalist+template+repository.+✨🛠" alt="bare-minimun subtitle" />
 
+<br/>
+
 <h6 align="center">
   A clean, modern, and production-ready boilerplate for rapid project development.
 </h6>
+
+<br/>
 
 <!-- Badges (Catppuccin Macchiato style) -->
 <p align="center">
@@ -25,51 +29,74 @@
   <a href="https://github.com/robert-flo/bare-minimun/watchers">
     <img alt="Watches" src="https://img.shields.io/github/watchers/robert-flo/bare-minimun?colorA=363a4f&colorB=89dceb&style=for-the-badge">
   </a>
+  <a href="https://github.com/robert-flo/bare-minimun/pulse">
+    <img alt="Last Updated" src="https://img.shields.io/github/last-commit/robert-flo/bare-minimun?colorA=363a4f&colorB=f38ba8&style=for-the-badge&label=Updated">
+  </a>
 </p>
+
+<br/>
 
 <!-- Navigation Bar -->
 <p align="center">
-  <a href="#features"><kbd> ✨ Features </kbd></a>&ensp;
-  <a href="#setup"><kbd> ⚡ Setup </kbd></a>&ensp;
-  <a href="#usage"><kbd> 🚀 Usage </kbd></a>&ensp;
-  <a href="#tooling"><kbd> 🧰 Tooling </kbd></a>&ensp;
-  <a href="#behind-the-code"><kbd> 🧑‍💻 Behind the Code </kbd></a>
+  <a href="#features"><kbd> <br> ✨ Features <br> </kbd></a>&ensp;
+  <a href="#setup"><kbd> <br> ⚡ Setup <br> </kbd></a>&ensp;
+  <a href="#usage"><kbd> <br> 🚀 Usage <br> </kbd></a>&ensp;
+  <a href="#tooling"><kbd> <br> 🧰 Tooling <br> </kbd></a>&ensp;
+  <a href="#behind-the-code"><kbd> <br> 🧑‍💻 Behind the Code <br> </kbd></a>
 </p>
 
+<br/>
+
 <h3>Short Sweet Headline 🎇🎉</h3>
+
+<br/>
 
 <!-- Showcase Image -->
 <p align="center">
   <img src="docs/images/screenshot.png" alt="bare-minimun in action" width="700" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
-  <br/>
+  <br/><br/>
   <sub><i>bare-minimun in action</i></sub>
 </p>
 
 </div>
 
-<br/>
+<br/><br/>
 
 > [!TIP]
-**Get Started Instantly:** Click the **Use this template** button on GitHub to instantiate this repository for your next project.
+> **Get Started Instantly:** Click the **Use this template** button on GitHub to instantiate this repository for your next project.
+
+<br/>
 
 ---
 
+<br/>
+
 <a id="features"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=FEATURES" alt="Features" />
+
+<br/>
 
 - 📝 **Ready-to-Go Template:** Clean and customizable README layout.
 - ⚙️ **Developer-Centric:** Built to fit seamlessly with [mkrepo](https://github.com/2kabhishek/mkrepo) for automated setup.
 - 🚀 **Rapid Development:** Minimalist boilerplate structure to get you coding instantly without the bloat.
 
+<br/>
+
 ---
+
+<br/>
 
 <a id="setup"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=SETUP" alt="Setup" />
+
+<br/>
 
 ### ⚙️ Requirements
 
 > [!IMPORTANT]
 > **Prerequisites:** &nbsp; `foo` >= `bar` &nbsp;&nbsp;•&nbsp;&nbsp; `bazz`
+
+<br/>
 
 ### 💻 Installation
 
@@ -85,10 +112,16 @@ cd bare-minimun
 > [!WARNING]
 > Ensure you run your setup/install commands within the project root directory.
 
+<br/>
+
 ---
+
+<br/>
 
 <a id="usage"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=USAGE" alt="Usage" />
+
+<br/>
 
 Customize this template to fit your project's specific flags and options:
 
@@ -100,12 +133,20 @@ bare-minimun [FLAGS] [OPTIONS]
 bare-minimun
 ```
 
+<br/>
+
 ---
+
+<br/>
 
 <a id="whats-next"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=WHAT'S+NEXT" alt="What's Next" />
 
+<br/>
+
 Planning to add `<feature/module>`.
+
+<br/>
 
 ### ✅ To-Do
 
@@ -113,50 +154,72 @@ Planning to add `<feature/module>`.
 - [ ] Define project modules and architecture.
 - [ ] Start typing code.
 
+<br/>
+
 ---
+
+<br/>
 
 <a id="behind-the-code"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=BEHIND+THE+CODE" alt="Behind the Code" />
 
+<br/>
+
 ### 💭 Inspiration
 
 `bare-minimun` was inspired by `<reason/idea>`.
+
+<br/>
 
 ### 💡 Challenges/Learnings
 
 - **The main challenges** were `<issue/difficulty>`.
 - **I learned about** `<learning/accomplishment>`.
 
+<br/>
+
 ---
+
+<br/>
 
 <a id="tooling"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=TOOLING" alt="Tooling" />
 
+<br/>
+
 Here are some personal configurations and setups that keep my development environment running smoothly:
+
+<br/>
 
 - 🗃️ **[dots-robert-flo](https://github.com/robert-flo/dots-robert-flo):** Personal dotfiles and essential CLI toolbelt tailored for development.
 - ⚡ **[neovim-robert-flo](https://github.com/robert-flo/neovim-robert-flo):** A modular, high-productivity Neovim setup optimized for speed.
 - 💻 **[vscode-robert-flo](https://github.com/robert-flo/vscode-robert-flo):** Curated VS Code workspace settings, keybindings, and extension list.
 - ❄️ **[nixos-robert-flo](https://github.com/robert-flo/nixos-robert-flo):** Declarative NixOS configuration featuring a custom Hyprland environment.
 
+<br/>
+
 ### 🔍 More Info
 
 - ☕ **[Melitta](https://github.com/robert-flo/melitta):** Command line template.
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
 <strong>⭐ Hit the star button if you found this useful! ⭐</strong>
 
-<br/>
-<br/>
+<br/><br/><br/>
 
 <sub>📬 **Get in touch!** Feel free to reach out for collaborations, questions, or just to say hi.</sub>
 
-<br/>
-<br/>
+<br/><br/>
 
 <a href="https://github.com/robert-flo/bare-minimun"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_github.svg" width="36" height="36" alt="Github" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:25asab015@ujmd.edu.sv"><img src="docs/images/mail.svg" width="36" height="36" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/robert-flo"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_twitter.svg" width="36" height="36" alt="Twitter" /></a>
+
+<br/><br/>
 
 </div>
