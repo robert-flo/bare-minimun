@@ -93,9 +93,7 @@ bare-minimum was inspired by `<reason/idea>`.
 
 ### 🔍 More Info
 
-- [shelly](https://github.com/robert-flo/shelly) — Command line template
-- [tiny-web](https://github.com/2kabhishek/tiny-web) — Web app template
-
+- [Melitta](https://github.com/robert-flo/melitta) — Command line template
 <hr>
 
 <div align="center">
@@ -104,8 +102,8 @@ bare-minimum was inspired by `<reason/idea>`.
 
 <a href="https://github.com/robert-flo/bare-minimun">Source</a>
 | <a href="https://robert-flo.github.io/blog" target="_blank">Blog </a>
-| <a href="https://twitter.com/YOUR_TWITTER" target="_blank">Twitter </a>
-| <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn </a>
+| <a href="https://twitter.com/robert-flo" target="_blank">Twitter </a>
+| <a href="https://linkedin.com/in/robert-flo" target="_blank">LinkedIn </a>
 | <a href="https://robert-flo.github.io/links" target="_blank">More Links </a>
 | <a href="https://robert-flo.github.io/projects" target="_blank">Other Projects </a>
 
