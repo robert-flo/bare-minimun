@@ -118,7 +118,7 @@ Planning to add `<feature/module>`.
 <a id="behind-the-code"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=BEHIND+THE+CODE" alt="Behind the Code" />
 
-### 🌈 Inspiration
+### 💭 Inspiration
 
 `bare-minimun` was inspired by `<reason/idea>`.
 
