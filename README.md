@@ -13,26 +13,7 @@
 <br/>
 
 <!-- Badges (Catppuccin Macchiato style) -->
-<p align="center">
-  <a href="https://github.com/robert-flo/bare-minimun/blob/master/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/robert-flo/bare-minimun?colorA=363a4f&colorB=b7bdf8&style=for-the-badge">
-  </a>
-  <a href="https://github.com/robert-flo/bare-minimun/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/robert-flo/bare-minimun?colorA=363a4f&colorB=f5a97f&style=for-the-badge&label=People">
-  </a>
-  <a href="https://github.com/robert-flo/bare-minimun/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/robert-flo/bare-minimun?colorA=363a4f&colorB=eed49f&style=for-the-badge">
-  </a>
-  <a href="https://github.com/robert-flo/bare-minimun/network/members">
-    <img alt="Forks" src="https://img.shields.io/github/forks/robert-flo/bare-minimun?colorA=363a4f&colorB=a6e3a1&style=for-the-badge">
-  </a>
-  <a href="https://github.com/robert-flo/bare-minimun/watchers">
-    <img alt="Watches" src="https://img.shields.io/github/watchers/robert-flo/bare-minimun?colorA=363a4f&colorB=89dceb&style=for-the-badge">
-  </a>
-  <a href="https://github.com/robert-flo/bare-minimun/pulse">
-    <img alt="Last Updated" src="https://img.shields.io/github/last-commit/robert-flo/bare-minimun?colorA=363a4f&colorB=f38ba8&style=for-the-badge&label=Updated">
-  </a>
-</p>
+<p align="center"><a href="https://github.com/robert-flo/bare-minimun/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/robert-flo/bare-minimun?colorA=363a4f&colorB=b7bdf8&style=for-the-badge" /></a>&nbsp;<a href="https://github.com/robert-flo/bare-minimun/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/robert-flo/bare-minimun?colorA=363a4f&colorB=f5a97f&style=for-the-badge&label=People" /></a>&nbsp;<a href="https://github.com/robert-flo/bare-minimun/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/robert-flo/bare-minimun?colorA=363a4f&colorB=eed49f&style=for-the-badge" /></a>&nbsp;<a href="https://github.com/robert-flo/bare-minimun/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/robert-flo/bare-minimun?colorA=363a4f&colorB=a6e3a1&style=for-the-badge" /></a>&nbsp;<a href="https://github.com/robert-flo/bare-minimun/watchers"><img alt="Watches" src="https://img.shields.io/github/watchers/robert-flo/bare-minimun?colorA=363a4f&colorB=89dceb&style=for-the-badge" /></a>&nbsp;<a href="https://github.com/robert-flo/bare-minimun/pulse"><img alt="Last Updated" src="https://img.shields.io/github/last-commit/robert-flo/bare-minimun?colorA=363a4f&colorB=f38ba8&style=for-the-badge&label=Updated" /></a></p>
 
 <br/>
 
