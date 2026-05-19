@@ -50,7 +50,7 @@
 <br/>
 
 > [!TIP]
-> **Get Started Instantly:** Click the **Use this template** button on GitHub to instantiate this repository for your next project.
+**Get Started Instantly:** Click the **Use this template** button on GitHub to instantiate this repository for your next project.
 
 ---
 
@@ -69,14 +69,16 @@
 ### ⚙️ Requirements
 
 > [!IMPORTANT]
-> **Prerequisites:**
-> * `foo` >= `bar`
-> * `bazz`
+
+**Prerequisites:**
+* `foo` >= `bar`
+* `bazz`
 
 ### 💻 Installation
 
 > [!TIP]
-> Getting started is as simple as cloning this template and configuring your environment!
+
+Getting started is as simple as cloning this template and configuring your environment!
 
 ```bash
 git clone https://github.com/robert-flo/bare-minimun.git
@@ -85,7 +87,8 @@ cd bare-minimun
 ```
 
 > [!WARNING]
-> Ensure you run your setup/install commands within the project root directory.
+
+Ensure you run your setup/install commands within the project root directory.
 
 ---
 
