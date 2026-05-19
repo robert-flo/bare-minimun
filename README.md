@@ -28,11 +28,11 @@
 
 <!-- Navigation Bar -->
 <p align="center">
-  <a href="#-features"><kbd> ✨ Features </kbd></a>&ensp;
-  <a href="#-setup"><kbd> ⚡ Setup </kbd></a>&ensp;
-  <a href="#-usage"><kbd> 🚀 Usage </kbd></a>&ensp;
-  <a href="#-tooling"><kbd> 🧰 Tooling </kbd></a>&ensp;
-  <a href="#-behind-the-code"><kbd> 🧑‍💻 Behind the Code </kbd></a>
+  <a href="#features"><kbd> ✨ Features </kbd></a>&ensp;
+  <a href="#setup"><kbd> ⚡ Setup </kbd></a>&ensp;
+  <a href="#usage"><kbd> 🚀 Usage </kbd></a>&ensp;
+  <a href="#tooling"><kbd> 🧰 Tooling </kbd></a>&ensp;
+  <a href="#behind-the-code"><kbd> 🧑‍💻 Behind the Code </kbd></a>
 </p>
 
 <h3>Short Sweet Headline 🎇🎉</h3>
@@ -53,7 +53,8 @@
 
 ---
 
-## ✨ Features
+<a id="features"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=FEATURES" alt="Features" />
 
 - 📝 **Ready-to-Go Template:** Clean and customizable README layout.
 - ⚙️ **Developer-Centric:** Built to fit seamlessly with [mkrepo](https://github.com/2kabhishek/mkrepo) for automated setup.
@@ -61,14 +62,17 @@
 
 ---
 
-## ⚡ Setup
+<a id="setup"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=SETUP" alt="Setup" />
 
-### ⚙️ Requirements
+<a id="requirements"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=20&pause=1000&color=b7bdf8&vCenter=true&width=450&height=25&lines=REQUIREMENTS" alt="Requirements" />
 
 - `foo` >= `bar`
 - `bazz`
 
-### 💻 Installation
+<a id="installation"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=20&pause=1000&color=b7bdf8&vCenter=true&width=450&height=25&lines=INSTALLATION" alt="Installation" />
 
 Getting started is as simple as cloning this template and configuring your environment:
 
@@ -80,7 +84,8 @@ cd bare-minimun
 
 ---
 
-## 🚀 Usage
+<a id="usage"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=USAGE" alt="Usage" />
 
 Customize this template to fit your project's specific flags and options:
 
@@ -94,7 +99,8 @@ bare-minimun
 
 ---
 
-## 🏗️ What's Next
+<a id="whats-next"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=WHAT'S+NEXT" alt="What's Next" />
 
 Planning to add `<feature/module>`.
 
@@ -106,7 +112,8 @@ Planning to add `<feature/module>`.
 
 ---
 
-## 🧑‍💻 Behind The Code
+<a id="behind-the-code"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=BEHIND+THE+CODE" alt="Behind the Code" />
 
 ### 🌈 Inspiration
 
@@ -119,7 +126,8 @@ Planning to add `<feature/module>`.
 
 ---
 
-## 🧰 Tooling
+<a id="tooling"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=24&pause=1000&color=cba6f7&vCenter=true&width=450&height=30&lines=TOOLING" alt="Tooling" />
 
 Here are some personal configurations and setups that keep my development environment running smoothly:
 
