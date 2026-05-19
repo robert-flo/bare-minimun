@@ -67,18 +67,24 @@
 
 ### ⚙️ Requirements
 
-- `foo` >= `bar`
-- `bazz`
+> [!IMPORTANT]
+> **Prerequisites:**
+> * `foo` >= `bar`
+> * `bazz`
 
 ### 💻 Installation
 
-Getting started is as simple as cloning this template and configuring your environment:
+> [!TIP]
+> Getting started is as simple as cloning this template and configuring your environment!
 
 ```bash
 git clone https://github.com/robert-flo/bare-minimun.git
 cd bare-minimun
 # Run your setup commands here
 ```
+
+> [!WARNING]
+> Ensure you run your setup/install commands within the project root directory.
 
 ---
 
