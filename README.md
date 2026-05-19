@@ -69,10 +69,7 @@
 ### ⚙️ Requirements
 
 > [!IMPORTANT]
-> **Prerequisites:**
-
-* `foo` >= `bar`
-* `bazz`
+> **Prerequisites:** &nbsp; `foo` >= `bar` &nbsp;&nbsp;•&nbsp;&nbsp; `bazz`
 
 ### 💻 Installation
 
