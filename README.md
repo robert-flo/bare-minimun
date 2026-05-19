@@ -1,67 +1,98 @@
-<div align = "center">
+<div align="center">
 
-<h1><a href="https://github.com/robert-flo/bare-minimun">bare-minimun</a></h1>
+<!-- Typing SVG Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=36&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&height=75&lines=bare-minimun;Minimalist+template+repository.+✨🛠" alt="bare-minimun header" />
 
-<a href="https://github.com/robert-flo/bare-minimun/blob/master/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/robert-flo/bare-minimun?style=flat&color=eee&label="> </a>
+<h6 align="center">
+  A clean, modern, and production-ready boilerplate for rapid project development.
+</h6>
 
-<a href="https://github.com/robert-flo/bare-minimun/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/robert-flo/bare-minimun?style=flat&color=ffaaf2&label=People"> </a>
+<!-- Badges (Catppuccin Macchiato style) -->
+<p align="center">
+  <a href="https://github.com/robert-flo/bare-minimun/blob/master/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/robert-flo/bare-minimun?colorA=363a4f&colorB=b7bdf8&style=for-the-badge">
+  </a>
+  <a href="https://github.com/robert-flo/bare-minimun/graphs/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/robert-flo/bare-minimun?colorA=363a4f&colorB=f5a97f&style=for-the-badge&label=People">
+  </a>
+  <a href="https://github.com/robert-flo/bare-minimun/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/robert-flo/bare-minimun?colorA=363a4f&colorB=eed49f&style=for-the-badge">
+  </a>
+  <a href="https://github.com/robert-flo/bare-minimun/network/members">
+    <img alt="Forks" src="https://img.shields.io/github/forks/robert-flo/bare-minimun?colorA=363a4f&colorB=a6e3a1&style=for-the-badge">
+  </a>
+  <a href="https://github.com/robert-flo/bare-minimun/watchers">
+    <img alt="Watches" src="https://img.shields.io/github/watchers/robert-flo/bare-minimun?colorA=363a4f&colorB=89dceb&style=for-the-badge">
+  </a>
+</p>
 
-<a href="https://github.com/robert-flo/bare-minimun/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/robert-flo/bare-minimun?style=flat&color=98c379&label=Stars"></a>
-
-<a href="https://github.com/robert-flo/bare-minimun/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/robert-flo/bare-minimun?style=flat&color=66a8e0&label=Forks"> </a>
-
-<a href="https://github.com/robert-flo/bare-minimun/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/robert-flo/bare-minimun?style=flat&color=f5d08b&label=Watches"> </a>
-
-<a href="https://github.com/robert-flo/bare-minimun/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/robert-flo/bare-minimun?style=flat&color=e06c75&label="> </a>
+<!-- Navigation Bar -->
+<p align="center">
+  <a href="#-features"><kbd> ✨ Features </kbd></a>&ensp;
+  <a href="#-setup"><kbd> ⚡ Setup </kbd></a>&ensp;
+  <a href="#-usage"><kbd> 🚀 Usage </kbd></a>&ensp;
+  <a href="#-tooling"><kbd> 🧰 Tooling </kbd></a>&ensp;
+  <a href="#-behind-the-code"><kbd> 🧑‍💻 Behind the Code </kbd></a>
+</p>
 
 <h3>Short Sweet Headline 🎇🎉</h3>
 
-<figure>
-  <img src="docs/images/screenshot.png" alt="bare-minimun in action">
+<!-- Showcase Image -->
+<p align="center">
+  <img src="docs/images/screenshot.png" alt="bare-minimun in action" width="700" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
   <br/>
-  <figcaption>bare-minimun in action</figcaption>
-</figure>
+  <sub><i>bare-minimun in action</i></sub>
+</p>
 
 </div>
 
-bare-minimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
+<br/>
+
+> [!TIP]
+> **Get Started Instantly:** Click the **Use this template** button on GitHub to instantiate this repository for your next project.
+
+---
 
 ## ✨ Features
 
-- Comes with a ready to go README template
-- Works with [mkrepo](https://github.com/2kabhishek/mkrepo)
+- 📝 **Ready-to-Go Template:** Clean and customizable README layout.
+- ⚙️ **Developer-Centric:** Built to fit seamlessly with [mkrepo](https://github.com/2kabhishek/mkrepo) for automated setup.
+- 🚀 **Rapid Development:** Minimalist boilerplate structure to get you coding instantly without the bloat.
+
+---
 
 ## ⚡ Setup
 
 ### ⚙️ Requirements
 
-- foo >= bar
-- bazz
+- `foo` >= `bar`
+- `bazz`
 
 ### 💻 Installation
 
-Installing bare-minimum is as simple as cloning and symlinking!
+Getting started is as simple as cloning this template and configuring your environment:
 
 ```bash
-git clone https://github.com/2kabhishek/bare-minimum
-cd bare-minimum
-<install_command>
+git clone https://github.com/robert-flo/bare-minimun.git
+cd bare-minimun
+# Run your setup commands here
 ```
+
+---
 
 ## 🚀 Usage
 
+Customize this template to fit your project's specific flags and options:
+
 ```bash
-USAGE:
-    bare-minimum [FLAGS] [OPTIONS]
-Example:
-    bare-minimum
+# General CLI usage
+bare-minimun [FLAGS] [OPTIONS]
+
+# Example
+bare-minimun
 ```
+
+---
 
 ## 🏗️ What's Next
 
@@ -69,42 +100,57 @@ Planning to add `<feature/module>`.
 
 ### ✅ To-Do
 
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
+- [x] Setup repository & initial configuration.
+- [ ] Define project modules and architecture.
+- [ ] Start typing code.
+
+---
 
 ## 🧑‍💻 Behind The Code
 
 ### 🌈 Inspiration
 
-bare-minimum was inspired by `<reason/idea>`.
+`bare-minimun` was inspired by `<reason/idea>`.
 
 ### 💡 Challenges/Learnings
 
-- The main challenges were `<issue/difficulty>`
-- I learned about `<learning/accomplishment>`
+- **The main challenges** were `<issue/difficulty>`.
+- **I learned about** `<learning/accomplishment>`.
 
-### 🧰 Tooling
+---
 
-- [dots-robert-flo](https://github.com/robert-flo/dots-robert-flo) — Personal dotfiles and essential CLI toolbelt tailored for development.
-- [neovim-robert-flo](https://github.com/robert-flo/neovim-robert-flo) — A modular, high-productivity Neovim setup optimized for speed.
-- [vscode-robert-flo](https://github.com/robert-flo/vscode-robert-flo) — Curated VS Code workspace settings, keybindings, and extension list.
-- [nixos-robert-flo](https://github.com/robert-flo/nixos-robert-flo) — Declarative NixOS configuration featuring a custom Hyprland environment.
+## 🧰 Tooling
+
+Here are some personal configurations and setups that keep my development environment running smoothly:
+
+- 🗃️ **[dots-robert-flo](https://github.com/robert-flo/dots-robert-flo):** Personal dotfiles and essential CLI toolbelt tailored for development.
+- ⚡ **[neovim-robert-flo](https://github.com/robert-flo/neovim-robert-flo):** A modular, high-productivity Neovim setup optimized for speed.
+- 💻 **[vscode-robert-flo](https://github.com/robert-flo/vscode-robert-flo):** Curated VS Code workspace settings, keybindings, and extension list.
+- ❄️ **[nixos-robert-flo](https://github.com/robert-flo/nixos-robert-flo):** Declarative NixOS configuration featuring a custom Hyprland environment.
 
 ### 🔍 More Info
 
-- [Melitta](https://github.com/robert-flo/melitta) — Command line template
-<hr>
+- ☕ **[Melitta](https://github.com/robert-flo/melitta):** Command line template.
+
+---
 
 <div align="center">
 
-<strong>⭐ hit the star button if you found this useful ⭐</strong><br>
+<strong>⭐ Hit the star button if you found this useful! ⭐</strong>
 
-<a href="https://github.com/robert-flo/bare-minimun">Source</a>
-| <a href="https://robert-flo.github.io/blog" target="_blank">Blog </a>
-| <a href="https://twitter.com/robert-flo" target="_blank">Twitter </a>
-| <a href="https://linkedin.com/in/robert-flo" target="_blank">LinkedIn </a>
-| <a href="https://robert-flo.github.io/links" target="_blank">More Links </a>
-| <a href="https://robert-flo.github.io/projects" target="_blank">Other Projects </a>
+<br/>
+<br/>
+
+<a href="https://github.com/robert-flo/bare-minimun">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_github.svg" width="36" height="36" alt="Github" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://robert-flo.github.io/blog">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_reddit.svg" width="36" height="36" alt="Reddit" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/robert-flo">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_twitter.svg" width="36" height="36" alt="Twitter" />
+</a>
 
 </div>
