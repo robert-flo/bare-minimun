@@ -152,6 +152,11 @@ Here are some personal configurations and setups that keep my development enviro
 <br/>
 <br/>
 
+<sub>📬 **Get in touch!** Feel free to reach out for collaborations, questions, or just to say hi.</sub>
+
+<br/>
+<br/>
+
 <a href="https://github.com/robert-flo/bare-minimun"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_github.svg" width="36" height="36" alt="Github" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:25asab015@ujmd.edu.sv"><img src="docs/images/mail.svg" width="36" height="36" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/robert-flo"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_twitter.svg" width="36" height="36" alt="Twitter" /></a>
 
 </div>
