@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=36&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&height=75&lines=bare-minimun;Minimalist+template+repository.+✨🛠" alt="bare-minimun header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=40&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&height=55&lines=bare-minimun" alt="bare-minimun title" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&pause=1000&color=b7bdf8&center=true&vCenter=true&width=600&height=35&lines=Minimalist+template+repository.+✨🛠" alt="bare-minimun subtitle" />
 
 <h6 align="center">
   A clean, modern, and production-ready boilerplate for rapid project development.
