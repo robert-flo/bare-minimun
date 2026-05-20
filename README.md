@@ -179,6 +179,16 @@ Here are some personal configurations and setups that keep my development enviro
 
 <br/>
 
+### 🤝 Contributing & Policies
+
+This repository follows standard practices to keep development organized and clean:
+
+- 📝 **[Contributing Guidelines](CONTRIBUTING.md):** Learn how to fork, develop, and submit pull requests.
+- 🔄 **[Release Policy](RELEASE_POLICY.md):** Details on our branch model (`dev` -> `rc` -> `master`) and release cycle.
+- 📝 **[Commit Guidelines](COMMIT_MESSAGE_GUIDELINES.md):** Information on Conventional Commits + Gitmoji rules.
+
+<br/>
+
 ### 🔍 More Info
 
 - ☕ **[Melitta](https://github.com/robert-flo/melitta):** Command line template.
