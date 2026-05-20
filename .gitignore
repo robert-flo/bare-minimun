@@ -1,1 +1,3 @@
 # Excluded files
+.directory
+.DS_Store
